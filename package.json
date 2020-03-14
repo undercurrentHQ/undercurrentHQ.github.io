@@ -22,5 +22,8 @@
   "devDependencies": {
     "bulma": "^0.8.0",
     "node-sass": "^4.13.1"
+  },
+  "dependencies": {
+    "bulma-carousel": "^4.0.4"
   }
 }
