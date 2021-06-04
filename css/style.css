@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'ArsenalBold';
+    src: local('Arsenal-Bold'), url("../fonts/Arsenal-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'QuicksandRegular';
+    src: local('Quicksand-Regular'), url("../fonts/Quicksand-Regular.ttf") format("truetype");
+}
+
+body {
+    background-color: #EAE7DC;
+    color: #9ba6ac;
+}
+
+.navbar-brand {
+    background-color: transparent;
+    font-family: 'ArsenalBold';
+    font-size: 2rem;
+    padding-left: 1rem;
+    color: #9ba6ac;
+}
+
+.brand-info {
+    margin-left: 1rem;
+}
+
+.navbar {
+    align-items: start;
+    margin-left: 2rem;
+    padding-top: 2rem;
+}
+
+.nav-pills .nav-link {
+    border-radius: .75rem;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    font-size: 1.1rem;
+    color: #0d6efd;
+    background-color: transparent;
+}
+
+#greeting {
+    margin-top: 30rem;
+    margin-bottom: 20rem;
+}
+
+#works {
+    margin-top: 20rem;
+    margin-bottom: 20rem;
+}
+
+#crew {
+    margin-top: 20rem;
+    margin-bottom: 20rem;
+}
+
+#contact {
+    margin-top: 20rem;
+    margin-bottom: 20rem;
+}
