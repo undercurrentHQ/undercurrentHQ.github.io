@@ -8,11 +8,6 @@
     src: local('Quicksand-Regular'), url("../fonts/Quicksand-Regular.ttf") format("truetype");
 }
 
-body {
-    background-color: #EAE7DC;
-    color: #9ba6ac;
-}
-
 .navbar-brand {
     background-color: transparent;
     font-family: 'ArsenalBold';
