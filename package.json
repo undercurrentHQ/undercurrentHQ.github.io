@@ -22,7 +22,7 @@
   "devDependencies": {
     "bulma": "^0.8.2",
     "minimist": ">=1.2.2",
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "bulma-carousel": "^4.0.24"
