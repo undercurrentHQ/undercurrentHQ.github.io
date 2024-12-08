@@ -21,7 +21,7 @@
   "homepage": "https://github.com/undercurrentHQ/undercurrentgames#readme",
   "devDependencies": {
     "bulma": "^0.8.2",
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.6",
     "node-sass": "^4.14.1"
   },
   "dependencies": {
